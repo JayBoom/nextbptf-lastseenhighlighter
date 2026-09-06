@@ -6,7 +6,7 @@
 
 ## Installation
 1. Ensure that you have either Tampermonkey or Greasemonkey installed.
-2. Download the script [`next-backpacktf-premium-sales-finder.user.js`](next-backpacktf-premium-sales-finder.user.js?raw=true).
+2. Download the script https://github.com/JayBoom/nextbptf-lastseenhighlighter/raw/refs/heads/main/next-backpacktf-premium-sales-finder.user.js
 3. Confirm that you want to install the script.
 4. The script should now be installed and ready to use.
 
